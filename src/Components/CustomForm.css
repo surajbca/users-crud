@@ -1,0 +1,33 @@
+/* CustomForm.css */
+
+/* Style for form container */
+.form-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+/* Style for form inputs */
+.form-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for submit button */
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Style for error message */
+.error-message {
+  color: red;
+  font-size: 12px;
+}
